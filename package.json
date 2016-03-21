@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-jsx-jsonml",
+  "version": "1.0.0",
+  "description": "transform jsx into jsonml",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "babel",
+    "transform",
+    "jsx",
+    "jsonml"
+  ],
+  "author": "JongChan Choi",
+  "license": "Zlib",
+  "dependencies": {
+    "babel-plugin-syntax-jsx": "^6.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.2"
+  }
+}
